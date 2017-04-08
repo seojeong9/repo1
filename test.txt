@@ -2,4 +2,3 @@ to do list
 
 hi
 bye
-beer
