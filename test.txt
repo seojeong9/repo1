@@ -1,4 +1,5 @@
-오늘의 할일
+to do list
 
-맥주 사먹기
-쓰레기정리
+hi
+bye
+beer
